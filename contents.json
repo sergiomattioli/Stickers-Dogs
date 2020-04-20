@@ -8,6 +8,7 @@
       "publisher": "Astro Mobile",
       "tray_image_file": "tray.png",
       "image_data_version":"1",
+      "avoid_cache":false,
       "publisher_website": "",
       "publisher_email": "astro.mobile.soft@gmail.com",
       "privacy_policy_website": "",
