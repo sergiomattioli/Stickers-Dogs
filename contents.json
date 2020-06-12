@@ -4,7 +4,7 @@
   "sticker_packs": [
     {
       "identifier": "telegram2",
-      "name": "Pack Telegram 2",
+      "name": "Pack Funny Pug",
       "publisher": "Astro Mobile",
       "tray_image_file": "tray.png",
       "image_data_version":"1",
@@ -62,7 +62,7 @@
     },
     {
       "identifier": "telegram1",
-      "name": "Pack Telegram 1",
+      "name": "Pack Dog Chat",
       "publisher": "Astro Mobile",
       "tray_image_file": "tray.png",
       "image_data_version":"1",
